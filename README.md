@@ -9,6 +9,7 @@ This project implements an AI-powered insurance advisory system using different 
 - LangChain with Chroma vector store
 - LangChain with FAISS vector store
 
+
 <h2 align="center">Repository Structure</h2>
 
 ```
