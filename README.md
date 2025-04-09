@@ -1,4 +1,4 @@
-<h1 align="center">AI Agent: Intelligent Insurance Advisor![image](https://github.com/user-attachments/assets/dfb2a4ef-641e-4cbd-a081-5d5b44b14a15)
+<h1 align="center">AI Agent: Intelligent Insurance Advisor
 </h1>
 
 An intelligent insurance advisory system powered by Retrieval Augmented Generation (RAG) technology. This project demonstrates multiple implementation approaches for building a context-aware AI agent that can provide accurate insurance-related information and assistance.
